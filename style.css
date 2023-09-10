@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+header {
+    background-color: #007BFF;
+    /* aqui você pode mudar a cor de fundo do seu cabeçalho */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #333;
+}
+p {
+    margin-bottom: 10px;
+}
+.profile-img {
+    max-width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
